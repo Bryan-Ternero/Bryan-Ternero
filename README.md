@@ -60,4 +60,4 @@ Next.js 16 y TypeScript, con animaciones (Framer Motion), formularios validados 
 
 ---
 
-¿Trabajamos juntos? Escríbeme a [bryanter79@gmail.com](mailto:bryanter79@gmail.com) o por [LinkedIn](www.linkedin.com/in/bryan-jair-elvis-ternero-oliva-71218520a).
+¿Trabajamos juntos? Escríbeme a [bryanter79@gmail.com](mailto:bryanter79@gmail.com) o por [LinkedIn](www.linkedin.com/in/bryan-jair-elvis-ternero-oliva).
