@@ -1,4 +1,4 @@
-![Bryan Ternero - Desarrollador Full Stack Junior](./assets/GitHubHeader.png)
+![Bryan Ternero - Desarrollador Full Stack Junior]( assets/GitHubHeader.png.)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/bryan-jair-elvis-ternero-oliva71218520a)
 [![Email](https://img.shields.io/badge/Email-Contacto-informational?style=flat&logo=gmail&logoColor=white&color=161B22)](mailto:bryanter79@gmail.com)
